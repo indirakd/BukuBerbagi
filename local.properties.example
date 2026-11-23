@@ -1,0 +1,4 @@
+# Salin file ini menjadi local.properties lalu isi nilainya.
+# sdk.dir biasanya ditambahkan otomatis oleh Android Studio.
+SUPABASE_URL=https://xxxxxxxxxxxx.supabase.co
+SUPABASE_ANON_KEY=isi_anon_key_atau_publishable_key
